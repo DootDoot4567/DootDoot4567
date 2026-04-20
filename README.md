@@ -1,6 +1,4 @@
 <h1 align="center">Hi there 👋 I'm Brandon Rivera</h1>
-<hr>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+@+Davidson+College;Interested+In;FPGA+%26+Embedded+Systems;RISC-V+Compilation+And+GNU+Toolchain;Open+Source+Projects&center=true&width=500&height=50" />
 </p>
