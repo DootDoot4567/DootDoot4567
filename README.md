@@ -3,25 +3,25 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+@+Davidson+College;Interested+In;FPGA+%26+Embedded+Systems;RISC-V+Compilation+And+GNU+Toolchain;Open+Source+Projects&center=true&width=500&height=50" />
 </p>
 
-<h3 align="center">🔭 Currently Working On</h3>
+<h3 align="left">🔭 Currently Working On</h3>
 <hr>
-<p align="center">
+<p align="left">
 Improving pipelined CPU (hazard detection + forwarding + branch prediction)<br>
 Exploring FPGA system design<br>
 Flash memory driver
 </p>
 
-<h3 align="center">🌱 Currently Learning</h3>
+<h3 align="left">🌱 Currently Learning</h3>
 <hr>
-<p align="center">
+<p align="left">
 SystemVerilog<br>
 Computer Architecture<br>
 Database Design
 </p>
 
-<h3 align="center">👯 Looking To Collaborate On</h3>
+<h3 align="left">👯 Looking To Collaborate On</h3>
 <hr>
-<p align="center">
+<p align="left">
 Open Source Projects<br>
 Matrix Accelerators<br>
 Embedded System Designs (Like drivers)
