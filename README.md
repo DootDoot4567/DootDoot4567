@@ -1,22 +1,23 @@
-<h2 align="left">Hi there 👋 My name is Brandon and I'm a Computer Science student, focused on digital design and FPGAs, at Davidson College</h2> 
+## Hi there 👋 My name is Brandon and I'm a Computer Science student, focused on digital design and FPGAs, at Davidson College
 
-## 🔭 Currently Working On
+### 🔭 Currently Working On
 - Improving pipelined CPU (hazard detection + forwarding + branch prediction)
 - Exploring FPGA system design
 - Flash Memory Driver<br>
 
-## Currently Learning
+### Currently Learning
 - System Verilog
 - Computer Architechture
 - Database Design
 
-## 👯 Looking To Collaborate On
+### 👯 Looking To Collaborate On
 - Open Source Projects
 - Matrix Accelerators
 - Embeded System Designs (Like drivers)
 
+<h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DootDoot4567&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> 
+  <img src="https://streak-stats.demolab.com/?user=DootDoot4567&theme=dark&hide_border=false" height="150" alt="stats graph" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DootDoot4567&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> </div>
 
 ## 🌐 Contact Me:
