@@ -5,39 +5,32 @@
 </p>
 
 <h3 align="center">🔭 Currently Working On</h3>
-<div align="center">
-  <ul align="left" style="display:inline-block; text-align:left;">
-    <li>Improving pipelined CPU (hazard detection + forwarding + branch prediction)</li>
-    <li>Exploring FPGA system design</li>
-    <li>Flash memory driver</li>
-  </ul>
-</div>
+
+- Improving pipelined CPU (hazard detection + forwarding + branch prediction)<br>
+- Exploring FPGA system design<br>
+- Flash memory driver
 
 <h3 align="center">🌱 Currently Learning</h3>
-<div align="center">
-  <ul align="left" style="display:inline-block; text-align:left;">
-    <li>SystemVerilog</li>
-    <li>Computer Architecture</li>
-    <li>Database Design</li>
-  </ul>
-</div>
+
+- SystemVerilog<br>
+- Computer Architecture<br>
+- Database Design
 
 <h3 align="center">👯 Looking To Collaborate On</h3>
-<div align="center">
-  <ul align="left" style="display:inline-block; text-align:left;">
-    <li>Open Source Projects</li>
-    <li>Matrix Accelerators</li>
-    <li>Embedded System Designs (Like drivers)</li>
-  </ul>
-</div>
+
+- Open Source Projects<br>
+- Matrix Accelerators<br>
+- Embedded System Designs (Like drivers)
 
 <h3 align="center">🌐 Contact Me</h3>
 <div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-rivera-7ab4082ab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bjonathanrivera@gmail.com) 
 </div>
 
 
 <h3 align="center">💻 Tech Stack (Proficient/Fair Experience)</h3>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23007ACC.svg?style=for-the-badge&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-%23C2185B.svg?style=for-the-badge&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-%230A0A0A.svg?style=for-the-badge&logoColor=white) ![RISC--V](https://img.shields.io/badge/RISC--V-%23FF6F00.svg?style=for-the-badge&logo=riscv&logoColor=white) ![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-%23000000.svg?style=for-the-badge&logoColor=white) ![GTKWave](https://img.shields.io/badge/GTKWave-%234CAF50.svg?style=for-the-badge&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <h3 align="center">GitHub Stats</h3>
