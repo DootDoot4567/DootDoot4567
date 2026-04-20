@@ -1,10 +1,11 @@
 <h1 align="center">Hi there 👋 I'm Brandon Rivera</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+@+Davidson+College;Interested+In;FPGA+%26+Systems;RISC-V+Compilation+And+GNU+Toolchain;Open+Source+Projects&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+@+Davidson+College;Interested+In;FPGA+%26+Embedded+Systems;RISC-V+Compilation+And+GNU+Toolchain;Open+Source+Projects&center=true&width=500&height=50" />
 </p>
 
 <h3 align="center">🔭 Currently Working On</h3>
+<hr>
 <p align="center">
 Improving pipelined CPU (hazard detection + forwarding + branch prediction)<br>
 Exploring FPGA system design<br>
@@ -12,6 +13,7 @@ Flash memory driver
 </p>
 
 <h3 align="center">🌱 Currently Learning</h3>
+<hr>
 <p align="center">
 SystemVerilog<br>
 Computer Architecture<br>
@@ -19,6 +21,7 @@ Database Design
 </p>
 
 <h3 align="center">👯 Looking To Collaborate On</h3>
+<hr>
 <p align="center">
 Open Source Projects<br>
 Matrix Accelerators<br>
@@ -40,8 +43,3 @@ Embedded System Designs (Like drivers)
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=DootDoot4567&theme=dark&hide_border=false" height="150" alt="stats graph" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DootDoot4567&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> </div>
-
-<h3 align="center">Contribution Activity</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
