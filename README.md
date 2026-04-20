@@ -5,22 +5,25 @@
 </p>
 
 <h3 align="center">🔭 Currently Working On</h3>
-
-- Improving pipelined CPU (hazard detection + forwarding + branch prediction)<br>
-- Exploring FPGA system design<br>
-- Flash memory driver
+<p align="center">
+Improving pipelined CPU (hazard detection + forwarding + branch prediction)<br>
+Exploring FPGA system design<br>
+Flash memory driver
+</p>
 
 <h3 align="center">🌱 Currently Learning</h3>
-
-- SystemVerilog<br>
-- Computer Architecture<br>
-- Database Design
+<p align="center">
+SystemVerilog<br>
+Computer Architecture<br>
+Database Design
+</p>
 
 <h3 align="center">👯 Looking To Collaborate On</h3>
-
-- Open Source Projects<br>
-- Matrix Accelerators<br>
-- Embedded System Designs (Like drivers)
+<p align="center">
+Open Source Projects<br>
+Matrix Accelerators<br>
+Embedded System Designs (Like drivers)
+</p>
 
 <h3 align="center">🌐 Contact Me</h3>
 <div align="center">
