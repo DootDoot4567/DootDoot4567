@@ -1,9 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Brandon Rivera</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+@+Davidson+College;Interested+In;FPGA+%26+Systems;RISC-V+Compilation;Open+Source+Projects&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+@+Davidson+College;Interested+In;FPGA+%26+Systems;RISC-V+Compilation+And+GNU+Toolchain;Open+Source+Projects&center=true&width=500&height=50" />
 </p>
-
 ### 🔭 Currently Working On
 - Improving pipelined CPU (hazard detection + forwarding + branch prediction)
 - Exploring FPGA system design
